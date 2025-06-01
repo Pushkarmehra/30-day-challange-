@@ -329,8 +329,6 @@ graph LR
 ### 🎯 "Consistency beats perfection. Progress beats perfection. Done beats perfect."
 
 **⭐ Star this repo if it helped you on your DSA journey!**
-
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen&style=flat-square)
 ![Stars](https://img.shields.io/github/stars/yourusername/dsa-roadmap?style=social)
 ![Forks](https://img.shields.io/github/forks/yourusername/dsa-roadmap?style=social)
 
