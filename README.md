@@ -20,10 +20,10 @@
 
 | Metric | Target | Status | Progress |
 |--------|--------|--------|----------|
-| **LeetCode Problems** | 500 | 👾 Inprogress | ![0%](https://progress-bar.dev/100/?width=200) |
-| **Projects Built** | 10 | 👾 Inprogress | ![0%](https://progress-bar.dev/100/?width=200) |
-| **Daily Study Hours** | 10h | 🔥 Consistent | ![0%](https://progress-bar.dev/100/?width=200) |
-| **Languages Mastered** | Java + C++ | 👾 Inprogress | ![0%](https://progress-bar.dev/100/?width=200) |
+| **LeetCode Problems** | 500 | 👾 Inprogress | ![1%](https://progress-bar.dev/100/?width=200) |
+| **Projects Built** | 10 | 👾 Inprogress | ![1%](https://progress-bar.dev/100/?width=200) |
+| **Daily Study Hours** | 10h | 🔥 Consistent | ![100%](https://progress-bar.dev/100/?width=200) |
+| **Languages Mastered** | Java + C++ | 👾 Inprogress | ![1%](https://progress-bar.dev/100/?width=200) |
 
 ---
 
